@@ -5,3 +5,5 @@ numpy
 joblib
 transformers
 sklearn
+torch
+pytorch_pretrained_bert
